@@ -9,7 +9,7 @@
 
 * * *
 
--청강대:https://www.ck.ac.kr/
+-청강대: <https://www.ck.ac.kr>
 
 1. 목록1
 2. 목록2
